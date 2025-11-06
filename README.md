@@ -1,4 +1,4 @@
-# Monolite Weather
+# Application Weather
 
 ## Descrizione
 Applicazione Spring Boot per fornire dati meteo per diversi paesi, con API REST documentate via Swagger UI.
